@@ -1,7 +1,7 @@
 #!/bin/python3.7
 import pyperclip
 
-Passwords = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6'}
+Passwords = {}
 
 
 def SearchInDictByKey(key, dict):
