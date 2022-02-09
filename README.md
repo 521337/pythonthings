@@ -1,1 +1,3 @@
 # pythonthings
+
+Autor: Arielthon
